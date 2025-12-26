@@ -105,9 +105,9 @@ npm run dev
 ---
 
 <div align="center">
-<p><i>Handcrafted with 🥖 by <strong>Arshiya Attar</strong></i></p>
+<p><i>Handcrafted by <strong>Arshiya Attar</strong></i></p>
 <p>
-<<a href="https://www.google.com/search?q=https://github.com/iamarshiya">Arshiya Attar</a\> •
+<a href="https://www.google.com/search?q=https://github.com/iamarshiya">Arshiya Attar</a\> •
 <a href="https://www.linkedin.com/in/arshiyaattar/">Arshiya Attar</a\>
 </p>
 </div>
