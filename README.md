@@ -6,12 +6,11 @@
 <i>"Artisan French Boulangerie & The Warmth of Golden Traditions"</i>
 </p>
 
-<p>
-<img src="[https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)" height="25" alt="React">
-<img src="[https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)" height="25" alt="Tailwind">
-<img src="[https://img.shields.io/badge/Shadcn/UI-000000?style=for-the-badge&logo=shadcnui&logoColor=white](https://www.google.com/search?q=https://img.shields.io/badge/Shadcn/UI-000000%3Fstyle%3Dfor-the-badge%26logo%3Dshadcnui%26logoColor%3Dwhite)" height="25" alt="Shadcn">
-<img src="[https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=Vite&logoColor=white](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=Vite&logoColor=white)" height="25" alt="Vite">
-</p>
+ <p>
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="25" alt="React">
+    <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" height="25" alt="Tailwind">
+    <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=Vite&logoColor=white" height="25" alt="Vite">
+  </p>
 
 <a href="#"><strong>Step into the Bakery »</strong></a>
 <br />
@@ -25,7 +24,7 @@
 
 > *"We don't just bake bread; we capture the amber glow of the morning sun in every crust. A fusion of old-world French technique and modern digital elegance."*
 
-**The Amber Oven** (Kneaded Delights) is a premium frontend experience designed to break the monotony of flat web design. It leverages **Obsidian Glassmorphism**—a sophisticated UI style featuring deep charcoal blurs, golden accents, and floating "frosted" layers that mimic a high-end storefront window at dusk.
+**The Amber Oven** is a premium frontend experience designed to break the monotony of flat web design. It leverages **Obsidian Glassmorphism**—a sophisticated UI style featuring deep charcoal blurs, golden accents, and floating "frosted" layers that mimic a high-end storefront window at dusk.
 
 ---
 
@@ -82,14 +81,14 @@ Ready to smell the digital coffee and fresh bread?
 
 1. **Clone the Bakery**
 ```bash
-git clone https://github.com/ronakkolhe/Kneaded-Delights.git
+git clone https://github.com/iamarshiya/theamberoven.git
 
 ```
 
 
 2. **Knead the Dependencies**
 ```bash
-cd Kneaded-Delights
+cd theamberoven
 npm install
 
 ```
@@ -108,7 +107,7 @@ npm run dev
 <div align="center">
 <p><i>Handcrafted with 🥖 by <strong>Arshiya Attar</strong></i></p>
 <p>
-<<a href="https://www.google.com/search?q=https://github.com/iamarshiya">GitHub</a\> •
-<a href="https://www.linkedin.com/in/arshiyaattar/">LinkedIn</a\>
+<<a href="https://www.google.com/search?q=https://github.com/iamarshiya">Arshiya Attar</a\> •
+<a href="https://www.linkedin.com/in/arshiyaattar/">Arshiya Attar</a\>
 </p>
 </div>
