@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=Vite&logoColor=white" height="25" alt="Vite">
   </p>
 
-<a href="#"><strong>Step into the Bakery »</strong></a>
+<a href="https://theamberoven.vercel.app/"><strong>Step into the Bakery »</strong></a>
 <br />
 <br />
 
