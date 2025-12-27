@@ -66,7 +66,7 @@ const Footer = () => {
 
         <div className="border-t border-primary-foreground/10 pt-8 flex flex-col md:flex-row items-center justify-between gap-4">
           <p className="text-primary-foreground/50 text-sm">
-            © 2024 La Belle Pâtisserie. All rights reserved.
+            © 2020 The Amber Oven. All rights reserved.
           </p>
           <p className="text-primary-foreground/50 text-sm">
             Baked by Arshiya 🥐
